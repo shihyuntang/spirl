@@ -8,6 +8,7 @@
   - file: bash_basics
   - file: bash_scripts
   - file: bash_tips
+  - file: test
 
 # Chapter 2: Git
 - file: git_about
